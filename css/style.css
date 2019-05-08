@@ -7,7 +7,7 @@ body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
   padding-bottom: 200px;
   margin: 0;
-  background: #F4F4F4;
+  background: #ffffff;
 }
 h1, h2, h3 {
   font-family: "Poppins", "sans-serif";
@@ -29,6 +29,7 @@ a:hover {
   list-style: none;
   padding-left: 0px;
   margin: 0;
+  text-align: right;
 }
 .list-inline li {
   display: inline-block;
